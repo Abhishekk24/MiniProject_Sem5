@@ -24,7 +24,7 @@ const Nav = () => {
     <nav className="flex-between w-full mb-16 pt-3 px-4">
       <Link href="/" className="flex items-center gap-2 hover:opacity-80 mr-8">
         <Image
-          src={"/logo_ware.png"}
+          src={"/logo.png"}
           alt="Warehouse_logo"
           width={160}
           height={130}
