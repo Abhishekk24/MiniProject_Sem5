@@ -52,15 +52,15 @@ const Nav = () => {
                     CART
                 </Link> */}
 
-              <Link href="/create-prompt"
+              {/* <Link href="/create-prompt"
                 className="black_btn">
                 WISHLIST
-              </Link>
+              </Link> */}
 
-              <Link href="/create-prompt"
+              {/* <Link href="/create-prompt"
                 className="black_btn">
                 MY ORDERS
-              </Link>
+              </Link> */}
             </div>
 
             <div className="flex gap-5">
