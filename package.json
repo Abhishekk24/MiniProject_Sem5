@@ -1,5 +1,5 @@
 {
-  "name": "next-auth-firebase",
+  "name": "miniprojectsem-5",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "autoprefixer": "10.4.14",
-    "encoding": "^0.1.13",
-    "firebase": "^9.23.0",
-    "next": "13.4.7",
-    "postcss": "8.4.24",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2"
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.12",
+    "@mui/material": "^5.14.12",
+    "@mui/styled-engine-sc": "^5.14.12",
+    "@react-google-maps/api": "^2.19.2",
+    "@stripe/stripe-js": "^2.1.7",
+    "bcrypt": "^5.1.1",
+    "mongodb": "^6.1.0",
+    "mongodb-client-encryption": "^6.0.0",
+    "mongoose": "^7.5.3",
+    "next": "latest",
+    "next-auth": "^4.23.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^5.3.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
   }
 }
